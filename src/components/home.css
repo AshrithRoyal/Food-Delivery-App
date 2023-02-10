@@ -1,0 +1,21 @@
+.cardsf {
+    position: relative;
+    left: 5%;
+    margin-top: 3%;
+}
+
+.col {
+    margin-top: 5%;
+}
+
+.bt {
+    /* margin-left: 70%; */
+    height:3rem;
+    width:16rem;
+}
+
+.disp {
+    text-align: center;
+    margin: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
